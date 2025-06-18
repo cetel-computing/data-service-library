@@ -8,7 +8,7 @@
             "name": "C#: DataServices Debug",
             "type": "dotnet",
             "request": "launch",
-            "projectPath": "${workspaceFolder}/DataServices.csproj"
+            "projectPath": "${workspaceFolder}/DataServices/DataServices.csproj"
         }
 
 

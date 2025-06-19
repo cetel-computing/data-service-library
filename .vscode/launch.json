@@ -10,7 +10,5 @@
             "request": "launch",
             "projectPath": "${workspaceFolder}/DataServices/DataServices.csproj"
         }
-
-
     ]
 }
